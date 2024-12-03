@@ -1033,6 +1033,10 @@ input[type="text"] {
   height: 50px;
 }
 
+input:disabled {
+  background-color: #f5f5f5 !important;
+}
+
 /* .form-group {
   margin-bottom: 30px;
 } */
